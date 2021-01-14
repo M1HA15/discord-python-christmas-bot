@@ -1,1 +1,1 @@
-# discord-python-christmas-bot
+# Christmas Discord Bot
